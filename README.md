@@ -23,7 +23,7 @@ A test was carried out to find the best parameters and metrics for 4 classificat
 ### 2. Regression Experiment
 #### 2.1 Train Data
 <div align="left">
-<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/4_regression_train.png" width="500px" />
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/4_regression_train.png" width="400px" />
 </div>
 
 #### 2.2 Validation Data

@@ -9,3 +9,14 @@ A test was carried out to find the best parameters and metrics for 4 classificat
 <div align="left">
 <img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/1_classification_train.png" width="750px" />
 </div>
+
+#### 1.2 Validation Data
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/2_classification_validation.png" width="750px" />
+</div>
+
+#### 1.3 Test Data
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/3_classification_test.png" width="750px" />
+</div>
+

@@ -6,6 +6,6 @@ A test was carried out to find the best parameters and metrics for 4 classificat
 
 ### 1. Classification Experiment
 #### 1.1 Train Data
-<div align="center">
-<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/1_classification_train.png" width="700px" />
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/1_classification_train.png" width="750px" />
 </div>

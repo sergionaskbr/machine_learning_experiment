@@ -20,3 +20,23 @@ A test was carried out to find the best parameters and metrics for 4 classificat
 <img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/3_classification_test.png" width="750px" />
 </div>
 
+### 2. Regression Experiment
+#### 2.1 Train Data
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/4_regression_train.png" width="750px" />
+</div>
+
+#### 2.2 Validation Data
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/5_regression_validation.png" width="750px" />
+</div>
+
+#### 2.3 Test Data
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/6_regression_test.png" width="750px" />
+</div>
+
+### 3. Clustering Experiment
+<div align="left">
+<img src="https://github.com/sergionaskbr/machine_learning_experiment/blob/main/img/7_clustering.png" width="750px" />
+</div>

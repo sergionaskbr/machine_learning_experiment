@@ -2,7 +2,7 @@
 ## A repository for training 16 algorithms in classification, regression and clustering.
 
 This experiment is the final project of the Machine Learning Fundamentals discipline of the DS Community Data Science Course. 
-A test was carried out to find the best parameters and metrics for 4 classification algorithms, 10 regression algorithms and 2 clustering algorithms, the results of which are shown below.  </br> 
+A test was carried out to find the best parameters and metrics for 4 classification algorithms, 10 regression algorithms and 2 clustering algorithms, the results of which are shown below.  </br>  </br> 
 There is 7 different datasets, one for each table. In classification and regression experiments, the data is separated into training, validation and test for each experiment. The clustering experiment uses just one dataset.
 
 ### 1. Classification Experiment

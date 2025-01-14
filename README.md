@@ -1,5 +1,5 @@
 # Machine Learning Experiment
-## A repository for training 16 algorithms in classification, regression and clustering.
+## Training 16 algorithms in classification, regression and clustering.
 
 </br> 
 This experiment is the final project of the Machine Learning Fundamentals discipline of the DS Community Data Science Course. 

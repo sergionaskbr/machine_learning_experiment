@@ -1,10 +1,23 @@
 # Machine Learning Experiment
 ## Training 16 algorithms in classification, regression and clustering.
 
-</br> 
+</br>
+
+### 1. Project Objective
 This experiment is the final project of the Machine Learning Fundamentals discipline of the DS Community Data Science Course. 
-A test was carried out to find the best parameters and metrics for 4 classification algorithms, 10 regression algorithms and 2 clustering algorithms, the results of which are shown below.  </br>  </br> 
-There is 7 different datasets, one for each table. In classification and regression experiments, the data is separated into training, validation and test for each experiment. The clustering experiment uses just one dataset. </br> </br> 
+The main objective is to study the changes in performance behavior and find the best parameters and metrics for 4 classification algorithms, 10 regression algorithms and 2 clustering algorithms, the results of which are shown below.  </br>  </br> 
+
+### 2. Solution
+The final product is 7 tables showing the algorithm performances, using different metrics to analyze 3 datasets. In classification and regression experiments, each dataset is divided into training, validation and test data. In clustering experiment, the dataset is not divided. </br> </br> 
+
+#### 2.1 Algorythms and Metrics used </br>
+
+##### Classification:
+Algorythms: K-Nearest Neighbors, Decision Tree, Random Forest, Logistic Regression.
+Performance metrics: Accuracy, Precision, Recall and F1-Score. </br>
+
+
+
 
 ### 1. Classification Experiment
 #### 1.1 Train Data
